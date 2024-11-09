@@ -104,7 +104,6 @@ PRODUCT_PACKAGES += \
     EuiccGoogleOverlay \
     EuiccSupportPixel \
     EuiccSupportPixelPermissions \
-    HbmSVManager \
     MyVerizonServices \
     RilConfigService \
     grilservice \
